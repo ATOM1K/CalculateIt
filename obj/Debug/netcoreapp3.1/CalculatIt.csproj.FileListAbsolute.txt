@@ -1,0 +1,13 @@
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\bin\Debug\netcoreapp3.1\CalculatIt.exe
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\bin\Debug\netcoreapp3.1\CalculatIt.deps.json
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\bin\Debug\netcoreapp3.1\CalculatIt.runtimeconfig.json
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\bin\Debug\netcoreapp3.1\CalculatIt.runtimeconfig.dev.json
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\bin\Debug\netcoreapp3.1\CalculatIt.dll
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\bin\Debug\netcoreapp3.1\CalculatIt.pdb
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\obj\Debug\netcoreapp3.1\CalculatIt.csprojAssemblyReference.cache
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\obj\Debug\netcoreapp3.1\CalculatIt.AssemblyInfoInputs.cache
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\obj\Debug\netcoreapp3.1\CalculatIt.AssemblyInfo.cs
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\obj\Debug\netcoreapp3.1\CalculatIt.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\obj\Debug\netcoreapp3.1\CalculatIt.dll
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\obj\Debug\netcoreapp3.1\CalculatIt.pdb
+C:\Users\Alexander Chunosov\source\repos\CalculatIt\obj\Debug\netcoreapp3.1\CalculatIt.genruntimeconfig.cache
